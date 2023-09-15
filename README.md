@@ -19,3 +19,8 @@ The data comes from two tables in MIMIC-III:
 * Gradient Boosting
 * Naive Bayes
 * Stochastic Gradient Descent
+
+
+## Authors ##
+
+Thanks to [Fahime Shahrokh] | [Rasoul Samani] | [Dr Nasser Ghadiri].
