@@ -1,5 +1,6 @@
 # Hospital Readmission Prediction
-The Code of the Paper: 'Predicting Hospital Readmission Using the Process of Extracting Medical Concepts' - 12th International Conference on Information and Knowledge Technology (IKT 2021)
+The Code of the Paper: 
+* F Shahrokh, R Samani and N Ghadiri, "Predicting hospital readmission using the process of extracting medical concepts", 12Th International Conference on Information and Knowledge Technology (IKT 2021)
 
 This Jupyter notebook builds models to predict whether a patient will be readmitted to the hospital within 30 days of discharge.
 
